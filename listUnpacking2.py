@@ -4,4 +4,4 @@ first,second,third,*others = numbers
 print(first)
 print(second)
 print(third)
-print(others)
+print(others) 
